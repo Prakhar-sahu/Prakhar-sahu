@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakhar Sahu</h1>
 <h3 align="center">Passionate Computer Science Enthusiast Committed to Daily Skill Enhancement and Innovation.</h3>
-< img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
+<img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 - 👯 I’m looking to collaborate on **web dev and AI/ML projects**
 
 - 📫 How to reach me **jsahu2814@gmail.com**
